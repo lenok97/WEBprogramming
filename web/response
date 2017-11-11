@@ -1,0 +1,37 @@
+200 OK
+Content-Type: text/HTML
+
+<html>
+<head>
+    <title>index</title>
+
+
+              <link rel="stylesheet" href="/_static/"/>
+
+              <link rel="stylesheet" href="/_static/"/>
+
+              <link rel="stylesheet" href="/_static/"/>
+
+
+</head>
+        <body>
+              <a href = "about/aboutme.html">link to aboutme.html</a><br>
+              <a href = "https://github.com/lenok97/WEBprogramming/blob/master/w
+eb/about/aboutme.html">absolute link to aboutme.html</a>
+
+
+              <script src="/_static/"></script>
+
+              <script src="/_static/"></script>
+
+              <script src="/_static/"></script>
+
+              <script src="/_static/"></script>
+
+              <script src="/_static/"></script>
+
+              <script src="/_static/"></script>
+
+
+        </body>
+</html>
