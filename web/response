@@ -6,11 +6,11 @@ Content-Type: text/HTML
     <title>index</title>
 
 
-              <link rel="stylesheet" href="/_static/"/>
+              <link rel="stylesheet" href="/_static/main.css"/>
 
-              <link rel="stylesheet" href="/_static/"/>
+              <link rel="stylesheet" href="/_static/bootstrap.css"/>
 
-              <link rel="stylesheet" href="/_static/"/>
+              <link rel="stylesheet" href="/_static/normalize.css"/>
 
 
 </head>
@@ -20,17 +20,17 @@ Content-Type: text/HTML
 eb/about/aboutme.html">absolute link to aboutme.html</a>
 
 
-              <script src="/_static/"></script>
+              <script src="/_static/app.js"></script>
 
-              <script src="/_static/"></script>
+              <script src="/_static/react.js"></script>
 
-              <script src="/_static/"></script>
+              <script src="/_static/leaflet.js"></script>
 
-              <script src="/_static/"></script>
+              <script src="/_static/D3.js"></script>
 
-              <script src="/_static/"></script>
+              <script src="/_static/moment.js"></script>
 
-              <script src="/_static/"></script>
+              <script src="/_static/math.js"></script>
 
 
         </body>
